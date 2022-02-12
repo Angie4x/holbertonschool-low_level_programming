@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
-* main - print numbers
-* Return: Always 0
+* main - print the number
+* Return: always 0
 */
 int main(void)
 {
-int x;
-for (x = 0; x <= 9; x++)
+int numbers;
+for (numbers = 0 ; numbers <= 9; numbers++)
 printf("%d", numbers);
 printf("\n");
 return (0);
