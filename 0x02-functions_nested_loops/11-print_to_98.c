@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *print_to_98 - print numbers
+ *print_to_98 - print numbers ok
  *@n: numbers to 98
 */
 void print_to_98(int n)
