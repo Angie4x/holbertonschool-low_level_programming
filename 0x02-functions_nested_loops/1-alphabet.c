@@ -1,15 +1,15 @@
 #include "main.h"
 /**
-* print_alphabet - imprime el alfabeto en minuscula*/
+* print_alphabet - imprime el alfabeto en minuscula
+*/
 
 void print_alphabet(void)
 {
-  char minusculas;
+char minusculas;
 
-	for (minusculas = 'a'; minusculas <= 'z'; minusculas++)
-	  {
-	  _putchar(minusculas);
-	  }
-	_putchar('\n');
-	  	
+for (minusculas = 97; minusculas <= 122; minusculas++)
+
+_putchar(minusculas);
+
+_putchar('\n');
 }
