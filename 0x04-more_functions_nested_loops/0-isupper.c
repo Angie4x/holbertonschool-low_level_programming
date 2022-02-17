@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _islower - check lower c
+* _isupper - check lower c
 *@c:Variable
 * Return: 1 if c is lower 0 if not
 */
