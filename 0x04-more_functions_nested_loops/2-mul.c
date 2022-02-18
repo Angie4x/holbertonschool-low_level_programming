@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
-* multiples two
+* mul -  multiples two
 * @a: 1 number to multiply
 * @b: 2 number to multiply
 * Return: multiply by a and b
