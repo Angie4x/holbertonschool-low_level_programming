@@ -2,7 +2,7 @@
 
 /**
  * main - Prints the name of the file of the program
- *        was compiled 
+ * was compiled
  *
  * Return: Always 0.
  */
