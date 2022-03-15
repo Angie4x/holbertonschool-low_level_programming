@@ -3,7 +3,7 @@
 #include <stlib.h>
 
 /**
- * print_dog - Function that prints a struct dog.
+ * print_dog - A function that prints a struct dog.
  * @d: type pointer struct for dog.
  * Return: 0.
  */
