@@ -1,5 +1,5 @@
-#ifndef
-#define
+#ifndef DOG_H
+#define DOG_H
 /**
  * struct dog - new type
  *@name: name of the dog
